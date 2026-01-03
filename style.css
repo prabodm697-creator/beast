@@ -244,8 +244,11 @@
             /* Hide scrollbar */
             scrollbar-width: none; 
         }
+
+        
+
         .transformation-slider::-webkit-scrollbar {
-            display: none;
+            display: block;
         }
 
         .trans-card {
